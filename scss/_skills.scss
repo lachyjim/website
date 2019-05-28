@@ -19,4 +19,21 @@
       }
     }
   }
+  .skill-icon {
+    color: $white;
+    text-align: center;
+    padding: 100px 0;
+    width: 100%;
+    margin: 0 auto;
+    background-size: cover;
+  }
+  .fa-symfony {
+    background-image: url('../img/blue.jpg');
+  }
+  .fa-js {
+    background-image: url('../img/pink2.jpg');
+  }
+  .fa-centos {
+    background-image: url('../img/colourful.jpg');
+  }
 }
